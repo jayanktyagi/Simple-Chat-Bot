@@ -1,3 +1,3 @@
 # Simple-Chat-Bot
 
-A simple chat bot built in java that asks people questions and gives answers.
+A simple chat bot built in java that guesses age and simple questions.
